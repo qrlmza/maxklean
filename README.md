@@ -21,3 +21,11 @@ Une fois le scan terminé :
 ## 3. Après avoir redémarré votre ordinateur, ouvrez le menu démarrer (touche `win`) et tappez "*cmd*" puis appuyez sur "*Exécuter en tant qu'administrateur*", une fois fait cela vous lancera une fenêtre de teminal. Dans ce terminal écrivez "*SFC /SCANNOW*" cette commande lancera une analyse de l'intégrité de Windows et corrigera automatiquement les erreurs rencontrées.
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/faee3298-fabc-4723-8588-c90da6de00f8)
 
+## Le message pourra être différent de celui présenté ci-dessous mais cela n'a pas réellement d'importance !
+![image](https://github.com/qrlmza/maxklean/assets/88981713/98633a65-9675-46e5-8f90-0d6d16a0a9bd)
+
+## 4. Pour finir, vous pourrez installer le logiciel `advanced-systemcare-setup.exe` qui vous fera une analyse et un nettoyage complet de votre système :
+### Avant toute chose comme prénseté il est important de décocher les deux cases en bas de cette fenêtre !
+![image](https://github.com/qrlmza/maxklean/assets/88981713/36fce54a-2ffd-41b1-be0a-09192869d94a)
+
+![image](https://github.com/qrlmza/maxklean/assets/88981713/766a6a40-e756-4e1a-84b8-ef97ef3f7a10)
