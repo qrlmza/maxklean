@@ -29,3 +29,17 @@ Une fois le scan terminé :
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/36fce54a-2ffd-41b1-be0a-09192869d94a)
 
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/766a6a40-e756-4e1a-84b8-ef97ef3f7a10)
+
+## Cochez "non merci" :
+![image](https://github.com/qrlmza/maxklean/assets/88981713/9c7ef02e-c3b5-43e9-b3f7-cffb19a449b7)
+
+## Rapidement décochez "En savoir plus en ligne" :
+![image](https://github.com/qrlmza/maxklean/assets/88981713/afe105db-be94-4b2f-8162-3202e90443b7)
+
+## Cliquez sur "Mode manuel" puis sur "Tout selectionner" :
+![image](https://github.com/qrlmza/maxklean/assets/88981713/1cca60fd-3fb3-4b05-b38c-54546cda6336)
+
+## Cliquez sur "Analyser"
+![image](https://github.com/qrlmza/maxklean/assets/88981713/1d5e30a7-07c9-4cce-a35e-be464984be7f)
+
+## Patientez que l'analyse soit terminée...
