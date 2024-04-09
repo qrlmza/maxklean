@@ -43,3 +43,22 @@ Une fois le scan terminé :
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/1d5e30a7-07c9-4cce-a35e-be464984be7f)
 
 ## Patientez que l'analyse soit terminée...
+
+##cliquez sur "Réparer" : 
+![image](https://github.com/qrlmza/maxklean/assets/88981713/148fa725-bea9-4d8d-b5a5-c51aee1f113c)
+
+## **RE** Patientez que la réparation soit terminée...
+## Ne cliquez pas sur "Réparer" cela ne sert que à vous faire payer une offre, fermez simplement le logiciel !
+![image](https://github.com/qrlmza/maxklean/assets/88981713/d103a0e8-54a9-4977-a69c-ed3c1079ba1e)
+
+Et voilà votre superbe PC gamer de la mort qui tue est tout propre :)
+PS : si vous avez un HDD (disque dur mécanique... oui ceux que l'on trouvais en 1789 la les disques bien lents) votre ordinateur restera bien bien lent nous vous conseillons de passer sur un disque SSD !
+
+Petit liens de SSD : https://www.amazon.fr/ssd/s?k=ssd
+
+voilà bisous !
+
+### qrlmza - Enderia.fr | Développeur chez verso-heberg.fr
+🌐 [Enderia.fr](https://www.enderia.fr)
+🌐 [verso-heberg.fr](https://verso-heberg.fr)
+🌐 [Projet INEOS](https://ineos.enderia.fr)
