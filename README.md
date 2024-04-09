@@ -17,3 +17,7 @@ Une fois le scan terminé :
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/e73d0b09-7902-4706-bbf3-e98c9317a37c)
 ### Une fois arrivé à cette étape, ZHP vous demandera si vous souhaitez créer un point de réstauration du système. un point de réstauration du système sert à récupérer votre windows en cas de crash, pour la suite nous refuserons de le créer mais libre à vous de choisir si vous souhaitez le laisser en créer une ou non.
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/8c814208-31aa-4908-af79-bb3f47e76866)
+
+## 3. Après avoir redémarré votre ordinateur, ouvrez le menu démarrer (touche `win`) et tappez "*cmd*" puis appuyez sur "*Exécuter en tant qu'administrateur*", une fois fait cela vous lancera une fenêtre de teminal. Dans ce terminal écrivez "*SFC /SCANNOW*" cette commande lancera une analyse de l'intégrité de Windows et corrigera automatiquement les erreurs rencontrées.
+![image](https://github.com/qrlmza/maxklean/assets/88981713/faee3298-fabc-4723-8588-c90da6de00f8)
+
