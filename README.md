@@ -13,3 +13,7 @@ A free toolkit for completely clean your pc
 ** **
 Une fois le scan terminé :
 ** **
+![image](https://github.com/qrlmza/maxklean/assets/88981713/c2fe26f8-e8fc-4c95-ba6c-d9f677619bd3)
+![image](https://github.com/qrlmza/maxklean/assets/88981713/e73d0b09-7902-4706-bbf3-e98c9317a37c)
+### Une fois arrivé à cette étape, ZHP vous demandera si vous souhaitez créer un point de réstauration du système. un point de réstauration du système sert à récupérer votre windows en cas de crash, pour la suite nous refuserons de le créer mais libre à vous de choisir si vous souhaitez le laisser en créer une ou non.
+![image](https://github.com/qrlmza/maxklean/assets/88981713/8c814208-31aa-4908-af79-bb3f47e76866)
