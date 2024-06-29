@@ -1,7 +1,7 @@
 # maxklean
 A free toolkit for completely clean your pc
 
-## Téléchargez ici l'archive zip des 3 logiciels : [cliquez ici]([https://mega.nz/file/g3tCHYjS#DxXQkfNbyJCiICuDN5LptzenrsDbKqWKWest1Fr62w4](https://mega.nz/file/1nMHEb4K#cb29fINEWO9yedAfCfPEqXF8M6h4_r-a6iO6WyVpUo8))
+## Téléchargez ici l'archive zip des 3 logiciels : [cliquez ici](https://mega.nz/file/1nMHEb4K#cb29fINEWO9yedAfCfPEqXF8M6h4_r-a6iO6WyVpUo8)
 
 ## 1. Éxecutez le premier logiciel `adwcleaner.exe` : 
 ![image](https://github.com/qrlmza/maxklean/assets/88981713/e030a43f-88b2-436c-b05c-7d788fbab038)
